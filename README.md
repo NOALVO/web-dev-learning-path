@@ -3,6 +3,8 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 
 😎 You can browse the links below per tag, knowledge level and series using our [Raindrop Collection of links](https://raindrop.io/collection/6661360).
 
+## Foundation
+
 ### The Web
 
 [How the Web Works: A Primer for Newcomers to Web Development (or anyone, really)](https://medium.freecodecamp.org/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c)
@@ -13,11 +15,11 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 
 ### HTTP
 
-[How the Web Works Part III: HTTP & REST](https://medium.freecodecamp.org/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
-
 [An overview of HTTP](https://developer.mozilla.org/en-US/docs/Web/HTTP/Overview)
 
 [HTTP Headers 101 – Bilal Ahmad Khan](https://medium.com/@bilalak90/http-headers-101-5392a7eff87b)
+
+[How the Web Works Part III: HTTP & REST](https://medium.freecodecamp.org/how-the-web-works-part-iii-http-rest-e61bc50fa0a)
 
 ### REST
 
@@ -27,6 +29,10 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 
 [RESTful Services Part III : HATEOAS and The Richardson Maturity Model](https://medium.freecodecamp.org/restful-services-part-iii-hateoas-and-the-richardson-maturity-model-48d4e4c79b8d)
 
+[The REST Architectural Style](https://github.com/rishal-hurbans/The-REST-Architectural-Style)
+
+[What is idempotence?](https://www.restapitutorial.com/lessons/idempotency.html)
+
 ### JavaScript
 
 [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
@@ -35,7 +41,13 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 
 ### Git
 
+[Pro Git Book](https://git-scm.com/book/en/v2)
+
+[git - the simple guide](http://rogerdudler.github.io/git-guide/)
+
 [Learn Git Branching](https://learngitbranching.js.org/)
+
+[Think Like (a) Git](http://think-like-a-git.net/)
 
 ### Programming concepts
 
@@ -44,3 +56,15 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 ### UI & UX Design
 
 [UI/UX Design Glossary](https://tubikstudio.com/uiux-design-glossary-steps-to-usability/)
+
+### Web Security
+
+[Secure your web application with these HTTP headers](https://medium.freecodecamp.org/secure-your-web-application-with-these-http-headers-fd66e0367628)
+
+## Advanced
+
+### HTTP/2
+
+[Migrating your REST APIs to HTTP/2: Why and How?](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb)
+
+[How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
