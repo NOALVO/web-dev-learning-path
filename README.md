@@ -33,6 +33,23 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 
 [What is idempotence?](https://www.restapitutorial.com/lessons/idempotency.html)
 
+#### [@Thiago Lima's](https://github.com/kapibr) RESTful APIs series - portuguese 🇧🇷
+[Parte 1 — A anatomia de uma API RESTful](https://www.linkedin.com/pulse/anatomia-de-uma-api-restful-thiago-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 2 — O que você precisa saber sobre métodos e códigos de status do protocolo HTTP](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 3 — Segurança em APIs RESTful](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 4 — Versionando APIs RESTful](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 5 — Paginação, Ordenação e Filtros em APIs RESTful](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 6 — Políticas em APIs RESTful](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 7 — Cache, compressão e muito mais sobre performance em APIs RESTful](https://www.linkedin.com/pulse/api-restful-o-que-voc%C3%AA-precisa-saber-sobre-m%C3%A9todos-e-c%C3%B3digos-lima/?lipi=urn%3Ali%3Apage%3Ad_flagship3_pulse_read%3BA4ToGV7ySdmzNFP%2BmDk0ww%3D%3D)
+
+[Parte 8  - Como chegar ao nível supremo de APIs RESTful](https://www.linkedin.com/pulse/parte-8-como-chegar-ao-n%C3%ADvel-supremo-de-apisrestful-thiago-lima/)
+
 ### JavaScript
 
 [33 concepts every JavaScript developer should know](https://github.com/leonardomso/33-js-concepts)
@@ -68,3 +85,13 @@ A recommended learning path for NOALVO's newcomers and veterans to web developme
 [Migrating your REST APIs to HTTP/2: Why and How?](https://blog.usejournal.com/migrating-your-rest-apis-to-http-2-why-and-how-8caee7d798fb)
 
 [How JavaScript works: Deep dive into WebSockets and HTTP/2 with SSE + how to pick the right path](https://blog.sessionstack.com/how-javascript-works-deep-dive-into-websockets-and-http-2-with-sse-how-to-pick-the-right-path-584e6b8e3bf7)
+
+### Azure Functions
+
+[Azure Functions Best Pratices](https://docs.microsoft.com/pt-br/azure/azure-functions/functions-best-practices)
+
+[Durable Functions patterns and technical concepts](https://docs.microsoft.com/pt-br/azure/azure-functions/durable/durable-functions-concepts)
+
+[Function chaining in Durable Functions - example](https://docs.microsoft.com/pt-br/azure/azure-functions/durable/durable-functions-sequence)
+
+[Durable Functions for Node.js](https://github.com/Azure/azure-functions-durable-js)
